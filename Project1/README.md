@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     Project 1 - Search - EN 601.464/664: Introduction to Artificial Intelligence, Fall 2021   
 
 Toggle navigation [**EN 601.464/664** | Fall 2021](.)
@@ -381,3 +382,7 @@ Submission
 ----------
 
 In order to submit your project, zip the files `search.py` and `searchAgents.py` into a new zip file and upload the zip file to `ProgProj 1` on Gradescope.
+=======
+## Implemented Depth First Search, Breadth First Search, Unit Cost Search, and A* Search for solving pacman problems. 
+## Details can be find in the HTML fileCancel changes
+>>>>>>> c825b9df2fec3aed5cecc77280607416017b6289
